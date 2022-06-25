@@ -6,3 +6,4 @@ docker-compose.yaml
 log/
 resources/products.json
 .idea
+.gitignore.*
